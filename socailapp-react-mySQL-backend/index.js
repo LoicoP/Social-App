@@ -26,6 +26,7 @@ app.use(
       "http://localhost:5173",
       "https://social-app-cyan-zeta.vercel.app",
       "https://social-app-production-33d4.up.railway.app",
+      "https://social-app-production-dd8d.up.railway.app",
     ],
     credentials: true,
   })
